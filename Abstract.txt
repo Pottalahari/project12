@@ -1,0 +1,1 @@
+This is a file with txt extension which is called as text document.
